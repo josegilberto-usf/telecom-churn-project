@@ -18,3 +18,6 @@ This project identifies high-risk customers for a telecommunications provider us
 2. Install dependencies: `pip install -r requirements.txt`
 3. Execute pipeline: `python3 main.py`
 4. Run tests: `pytest`
+
+## Key Business Insight
+![Churn Analysis Chart](docs/contract_churn_chart.png)
